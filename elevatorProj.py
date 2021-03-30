@@ -16,12 +16,6 @@ def goFloor(inpFloor, currentFloor):
         return currentFloor
 
 
-'''def goDown(inpFloor, currentFloor)
-    while currentFloor!= inpFloor
-
-
-def goUp(inpFloor, currentFloor)
-'''
 
 
 currentFloor = 1
